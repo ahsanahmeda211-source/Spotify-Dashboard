@@ -55,6 +55,3 @@ This dashboard is useful for:
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to fork, enhance features, or suggest new visualizations.
