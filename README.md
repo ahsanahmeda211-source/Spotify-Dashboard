@@ -27,7 +27,8 @@ This project presents a **Spotify Analytics Dashboard** built using **Power BI**
 ---
 
 ## 🖼️ Dashboard Screenshot  
-![Spotify Dashboard Screenshot](https://github.com/user-attachments/assets/d4cea8dc-c38b-4180-80ee-fff086411ed8)
+(![Screenshot 2025-11-09 at 3 11 55 PM](https://github.com/user-attachments/assets/38ba9c62-78e6-4337-85c7-cfe0db7ff73c)
+
 
 ---
 
